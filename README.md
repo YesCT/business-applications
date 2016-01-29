@@ -34,59 +34,63 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Starting small
 
 Note:
-- Slide with a background image
+-
 
 
 
-<!-- .slide: data-background="custom/images/isle-of-drupal.jpg" data-background-size="1280px" -->
-## Slide title
-<!-- .element: class="hidden" -->
-
-Note:
-- Hidden title
-
-
-
-## Slide title
-<img src="custom/images/" class="fragment">
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Asking questions
 
 Note:
-- Image as fragment
+-
 
 
 
-## Slide title
-<!-- .element: class="heading" -->
-
-Note:
-- Title with a box around it
-
-
-
-## Slide title
-<!-- .element: class="heading invert" -->
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Talking in public
 
 Note:
-- Inverted
+-
 
 
 
-> <i class="fa fa-quote-left"></i>
-> I mashed the button, but it didn't do anything.
-> <i class="fa fa-quote-right"></i>
-
-Note:
-- Quote
-
-
-
-> <!-- .element: class="invert" -->
-> <i class="fa fa-quote-left"></i>
-> Me too!
-> <i class="fa fa-quote-right"></i>
-> <i class="fa fa-heart fragment current-visible" style="color: #c00;"></i>
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Breaking down problems
 
 Note:
-- Inverted quote with a fragment
+-
+
+
+
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Feedback
+
+Note:
+-
+
+
+
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Working together
+
+Note:
+-
+
+
+
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Moving on
+
+Note:
+-
+
+
+
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Takeways
+
+Note:
+-
