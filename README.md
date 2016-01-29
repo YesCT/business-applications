@@ -67,6 +67,7 @@ Note:
 - shows other people that it's OK to ask, learn and grow
 
 
+
 ### safe environment
 
 Note:
@@ -76,6 +77,8 @@ Note:
 
 
 ## techniques
+
+Note:
 - have people say "thanks for asking that." "I've been wondering that also." as a way of supporting a cultural change where asking is ok and encouraged.
 - have experienced people view the asking of a question as a signal that something needs changing: a doc needs to be more easily found, needs extra information
 
