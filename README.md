@@ -37,12 +37,40 @@ Note:
 ## Starting small
 
 Note:
--
+- We are talking about a lot of different concepts that evolved and were put to practice over time - rather than applying everything at once -- pick one thing and go with it / try it at your organization
+
+
+
+### Small intitiative
+
+
+
+### Organizational buy-in
+
+Note:
+- bringing change to a small group is easier than taking on large groups
+- proposing an org-wide chatroom was easier once small group (7 people) had experience with it and we had evidence that it worked
+- initial team become early adopters of techniques and share them with other groups
+- organizational/institutional buy-in is important for growth
+- to sustain growth, certain operational costs (time/money/policy) will have to be absorbed at a higher level
+- example: Drupal Core Mentoring and DA
+  - individual drives implementing ideas
+  - DA takes over after pattern established and proven
+  - frees up individuals to continue to evolve and improve process
+
 
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
 ## Talking in public
+
+
+
+### Knowledge retrieval and transfer
+
+
+
+### Story time
 
 Note:
 -
