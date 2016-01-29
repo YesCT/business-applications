@@ -165,7 +165,7 @@ Note:
 
 
 
-### 3 parts
+### Three parts to feedback
 - Thank you <!-- .element: class="fragment" -->
 - Review <!-- .element: class="fragment" -->
 - Next steps <!-- .element: class="fragment" -->
@@ -199,6 +199,7 @@ Note:
 -
 
 
+
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
 ## Moving on
 
@@ -211,6 +212,7 @@ Note:
 
 Note:
 -
+
 
 
 ### Burnout
