@@ -3,7 +3,7 @@
 
 
 
-## [bit.ly/?](http://bit.ly/?)
+## [bit.ly/mentoring-lessons](http://bit.ly/mentoring-lessons)
 
 Note:
 - Slides and speaker notes available online
