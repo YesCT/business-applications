@@ -76,7 +76,7 @@ Note:
 
 
 
-## techniques
+### techniques
 
 Note:
 - have people say "thanks for asking that." "I've been wondering that also." as a way of supporting a cultural change where asking is ok and encouraged.
