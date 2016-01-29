@@ -1,5 +1,5 @@
-## <i class="fa fa-sign-in"></i> Title
-####_Subtitle_
+## Business Applications of Lessons Learned from Drupal Core Mentoring
+#### DrupalCamp NJ 2016
 
 
 
