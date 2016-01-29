@@ -1,4 +1,4 @@
-## Business Applications of Lessons Learned from Drupal Core Mentoring
+# Business Applications of Lessons Learned from Drupal Core Mentoring
 #### DrupalCamp NJ 2016
 
 
@@ -59,7 +59,7 @@ Note:
 
 
 
-### increase engagement
+### Increase engagement
 
 Note:
 - decreases fear, asking questions can be addictive
@@ -68,7 +68,7 @@ Note:
 
 
 
-### safe environment
+### Safe environment
 
 Note:
 - Environment must allow exposing lack of knowledge about something in a safe, productive way
@@ -76,7 +76,7 @@ Note:
 
 
 
-### techniques
+### Techniques
 
 Note:
 - have people say "thanks for asking that." "I've been wondering that also." as a way of supporting a cultural change where asking is ok and encouraged.
