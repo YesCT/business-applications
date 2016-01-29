@@ -118,7 +118,21 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Takeways
+- talk in public <!-- .element: class="fragment" -->
+- read a book <!-- .element: class="fragment" -->
+
+
+
+## [Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)</span>
+David H. Hoover & Adewale Oshineye
+
+Note:
+-
+
+
+
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## [bit.ly/mentoring-lessons](http://bit.ly/mentoring-lessons)
 
 Note:
 -
