@@ -42,7 +42,7 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Asking questions
+## Talking in public
 
 Note:
 -
@@ -50,10 +50,35 @@ Note:
 
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Talking in public
+## Asking questions
 
 Note:
--
+- exposing ignorance is difficult
+- instincts tell us to feign expert knowledge, or at best stay silent
+- asking questions is the best way to expose and address gaps in knowledge
+
+
+
+### increase engagement
+
+Note:
+- decreases fear, asking questions can be addictive
+- learned more, and became more engaged
+- shows other people that it's OK to ask, learn and grow
+
+
+### safe environment
+
+Note:
+- Environment must allow exposing lack of knowledge about something in a safe, productive way
+- response cannot be surprise "what? you don't know x / how to use x?"
+
+
+
+## techniques
+- have people say "thanks for asking that." "I've been wondering that also." as a way of supporting a cultural change where asking is ok and encouraged.
+- have experienced people view the asking of a question as a signal that something needs changing: a doc needs to be more easily found, needs extra information
+
 
 
 
