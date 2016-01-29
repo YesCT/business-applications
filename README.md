@@ -43,6 +43,8 @@ Note:
 
 ### Small intitiative
 
+Note:
+-
 
 
 ### Organizational buy-in
@@ -64,9 +66,15 @@ Note:
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
 ## Talking in public
 
+Note:
+-
+
 
 
 ### Knowledge retrieval and transfer
+
+Note:
+-
 
 
 
@@ -121,6 +129,27 @@ Note:
 
 
 
+### Breakdown
+
+Note:
+-
+
+
+
+### Patterns
+
+Note:
+-
+
+
+
+### Benefits
+
+Note:
+-
+
+
+
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
 ## Feedback
 
@@ -129,16 +158,69 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Working together
+### People are experts in their domains
 
 Note:
 -
 
 
 
+### 3 parts
+- Thank you <!-- .element: class="fragment" -->
+- Review <!-- .element: class="fragment" -->
+- Next steps <!-- .element: class="fragment" -->
+
+Note:
+-
+
+
+
+
+<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
+## Working together
+
+Note:
+- An issue is not solved by just one person from beginning to end (it cannot be, you can't review your own patches changes, in other words, you can't accept your own merge/pull request)
+- There are multiple people come and do parts of the overall work
+
+
+
+## Do not work primarily alone
+
+Note:
+- frequent check-in with others (ties back to Breaking down problems): people break off to do solo work, but check with one another throughout the day
+- pairing - two people working together, switching control at intervals so that each person spends time typing
+
+
+
+## Always be mentoring
+
+Note:
+-
+
+
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
 ## Moving on
+
+Note:
+-
+
+
+
+### Transition into and out of roles
+
+Note:
+-
+
+
+### Burnout
+
+Note:
+-
+
+
+
+### Planned obsolescence
 
 Note:
 -
