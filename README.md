@@ -43,7 +43,9 @@ Note:
 ### Small intitiative
 
 Note:
--
+- cathy: core mentoring started
+ -- in IRC updating "new" issue summaries, and initially just triaging, reproducing to verify issues, now we have task documents for many types of contributor tasks, not just summary updates
+ -- mentor sprints started with putting people all in one room at drupalcon denver, processes improved and grew overtime as we gained experience
 
 
 
