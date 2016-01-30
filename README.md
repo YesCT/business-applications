@@ -32,7 +32,6 @@ Note:
 
 
 
-
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
 ## Starting small
 
@@ -47,6 +46,7 @@ Note:
 -
 
 
+
 ### Organizational buy-in
 
 Note:
@@ -59,7 +59,6 @@ Note:
   - individual drives implementing ideas
   - DA takes over after pattern established and proven
   - frees up individuals to continue to evolve and improve process
-
 
 
 
@@ -120,7 +119,6 @@ Note:
 
 
 
-
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
 ## Breaking down problems
 
@@ -172,7 +170,6 @@ Note:
 
 Note:
 -
-
 
 
 
