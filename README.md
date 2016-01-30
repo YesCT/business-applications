@@ -36,7 +36,7 @@ Note:
 ## Starting small
 
 Note:
-- We are talking about a lot of different concepts that evolved and were put to practice over time - rather than applying everything at once -- pick one thing and go with it / try it at your organization
+- alina: We are talking about a lot of different concepts that evolved and were put to practice over time - rather than applying everything at once -- pick one thing and go with it / try it at your organization
 
 
 
@@ -52,6 +52,7 @@ Note:
 ### Organizational buy-in
 
 Note:
+- alina
 - bringing change to a small group is easier than taking on large groups
 - proposing an org-wide chatroom was easier once small group (7 people) had experience with it and we had evidence that it worked
 - initial team become early adopters of techniques and share them with other groups
@@ -68,7 +69,7 @@ Note:
 ## Talking in public
 
 Note:
-- talk in a public chatroom, even when you are in the same place in person
+- cathy: talk in a public chatroom, even when you are in the same place in person
  -- move private conversations to public channels, make new public sub-topic channels to help manage the increase in chatter
  -- helps to avoid people repeating themselves
  -- do thanks in those public channels also, points, karma or kudos are nice
@@ -78,7 +79,7 @@ Note:
 ### Knowledge retrieval and transfer
 
 Note:
-- when people talk in public, knowledge transfer and retrieval is a public, accessible process
+- cathy: when people talk in public, knowledge transfer and retrieval is a public, accessible process
  -- when people share knowledge in a public chat, even those who are not directly in the conversation can benefit -- include publicly avialable storage of bits of information (factoids or bot responses of bits of commonly used information, commonly needed links or long links)
  -- safer, people can risk "answering" questions, cause if they are wrong, there are observers who can chime in with more information
 
@@ -87,7 +88,7 @@ Note:
 ### Story time
 
 Note:
--
+- alina
 
 
 
@@ -95,6 +96,7 @@ Note:
 ## Asking questions
 
 Note:
+- alina
 - exposing ignorance is difficult
 - instincts tell us to feign expert knowledge, or at best stay silent
 - asking questions is the best way to expose and address gaps in knowledge
@@ -130,28 +132,28 @@ Note:
 ## Breaking down problems
 
 Note:
--
+- alina
 
 
 
 ### Breakdown
 
 Note:
--
+- alina
 
 
 
 ### Patterns
 
 Note:
--
+- cathy
 
 
 
 ### Benefits
 
 Note:
--
+- cathy
 
 
 
@@ -159,7 +161,7 @@ Note:
 ## Feedback
 
 Note:
--
+- alina
 
 
 
@@ -184,6 +186,7 @@ Note:
 ## Working together
 
 Note:
+- alina
 - An issue is not solved by just one person from beginning to end (it cannot be, you can't review your own patches changes, in other words, you can't accept your own merge/pull request)
 - There are multiple people come and do parts of the overall work
 
@@ -200,7 +203,7 @@ Note:
 ## Always be mentoring
 
 Note:
--
+- cathy
 
 
 
@@ -208,28 +211,28 @@ Note:
 ## Moving on
 
 Note:
--
+- cathy
 
 
 
 ### Transition into and out of roles
 
 Note:
--
+- cathy
 
 
 
 ### Burnout
 
 Note:
--
+- alina
 
 
 
 ### Planned obsolescence
 
 Note:
--
+- alina
 
 
 
