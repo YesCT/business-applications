@@ -44,8 +44,8 @@ Note:
 
 Note:
 - cathy: core mentoring started
- -- in IRC updating "new" issue summaries, and initially just triaging, reproducing to verify issues, now we have task documents for many types of contributor tasks, not just summary updates
- -- mentor sprints started with putting people all in one room at drupalcon denver, processes improved and grew overtime as we gained experience
+  - in IRC updating "new" issue summaries, and initially just triaging, reproducing to verify issues, now we have task documents for many types of contributor tasks, not just summary updates
+  - mentor sprints started with putting people all in one room at drupalcon denver, processes improved and grew overtime as we gained experience
 
 
 
@@ -70,9 +70,9 @@ Note:
 
 Note:
 - cathy: talk in a public chatroom, even when you are in the same place in person
- -- move private conversations to public channels, make new public sub-topic channels to help manage the increase in chatter
- -- helps to avoid people repeating themselves
- -- do thanks in those public channels also, points, karma or kudos are nice
+  - move private conversations to public channels, make new public sub-topic channels to help manage the increase in chatter
+  - helps to avoid people repeating themselves
+  - do thanks in those public channels also, points, karma or kudos are nice
 
 
 
@@ -80,8 +80,9 @@ Note:
 
 Note:
 - cathy: when people talk in public, knowledge transfer and retrieval is a public, accessible process
- -- when people share knowledge in a public chat, even those who are not directly in the conversation can benefit -- include publicly avialable storage of bits of information (factoids or bot responses of bits of commonly used information, commonly needed links or long links)
- -- safer, people can risk "answering" questions, cause if they are wrong, there are observers who can chime in with more information
+  - when people share knowledge in a public chat, even those who are not directly in the conversation can benefit
+  - include publicly avialable storage of bits of information (factoids or bot responses of bits of commonly used information, commonly needed links or long links)
+  - safer, people can risk "answering" questions, cause if they are wrong, there are observers who can chime in with more information
 
 
 
@@ -166,11 +167,11 @@ Note:
 Note:
 - cathy
 - with the overall issue split into smaller tasks
- -- eases fear (of starting)
- -- people can see they are making progress. this way, confidence builds as get to more challenging parts of a larger task. can also see things are "done" along the way. I did this little part. I can do this next little part. 
- -- in between the small pieces allows, mentor checks in about the smaller tasks
-  --- give possibility for feedback before too much time going down the wrong path.
-  --- Alina: I am often reluctant to ask for help: don't want to let my mentor down, go down the research rabbit hole instead of asking directly (relates to the Asking questions section)
+  - eases fear (of starting)
+  - people can see they are making progress. this way, confidence builds as get to more challenging parts of a larger task. can also see things are "done" along the way. I did this little part. I can do this next little part. 
+  - in between the small pieces allows, mentor checks in about the smaller tasks
+    - give possibility for feedback before too much time going down the wrong path.
+    - Alina: I am often reluctant to ask for help: don't want to let my mentor down, go down the research rabbit hole instead of asking directly (relates to the Asking questions section)
 
 
 
