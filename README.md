@@ -155,6 +155,9 @@ Note:
 
 Note:
 - cathy
+- experienced person ask new person for do first steps without asking to do large issue. once the first step is done, then give feedback to improve it or refine it. after that, give next step.
+- when checking on status, don't ask: did you do that thing yet?, ask a more open-ended question like: what are you working on? this gives the other person opportunity to respond more accurately with more information "I am still reading through the comments on the issue"
+- check for understanding assumptions when others write things down (rewrite what they were told to do)
 
 
 
@@ -162,6 +165,12 @@ Note:
 
 Note:
 - cathy
+- with the overall issue split into smaller tasks
+ -- eases fear (of starting)
+ -- people can see they are making progress. this way, confidence builds as get to more challenging parts of a larger task. can also see things are "done" along the way. I did this little part. I can do this next little part. 
+ -- in between the small pieces allows, mentor checks in about the smaller tasks
+  --- give possibility for feedback before too much time going down the wrong path.
+  --- Alina: I am often reluctant to ask for help: don't want to let my mentor down, go down the research rabbit hole instead of asking directly (relates to the Asking questions section)
 
 
 
