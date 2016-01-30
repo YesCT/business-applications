@@ -70,10 +70,10 @@ Note:
 
 Note:
 - cathy: one the keys to the success of the core mentoring public, is that we used the most public chat channel #drupal.
-- talk in a public chatroom, even when you are in the same place in person
+- talk in a public chatroom, even when you are in the same physical place other people
   - move private conversations to public channels, make new public sub-topic channels to help manage the increase in chatter
-  - helps to avoid people repeating themselves
-  - do thanks in those public channels also, points, karma or kudos are nice
+  - talking in public helps to avoid people repeating themselves
+  - do thanks in those public channels also, points, karma or kudos are nice, this helps others see what actions are appreciated, and more people will do things that others should repeat.
 
 
 
@@ -81,7 +81,7 @@ Note:
 
 Note:
 - cathy: when people talk in public, knowledge transfer and retrieval is a public, accessible process
-  - when people share knowledge in a public chat, even those who are not directly in the conversation can benefit
+  - when people share knowledge in a public chat, even those who are not directly in the conversation benefit
   - include publicly avialable storage of bits of information (factoids or bot responses of bits of commonly used information, commonly needed links or long links)
   - safer, people can risk "answering" questions, cause if they are wrong, there are observers who can chime in with more information
 
@@ -90,6 +90,7 @@ Note:
 ### Story time
 
 Note:
+- alina
 - background: team of 5-7 within a larger group of about 20. IT department of about 100?
 - catalyst: adding a new team member, after a long time. at the same time, had 1-2 student workers
 - need to disburse information in multiple directions, and have it checked/confirmed
