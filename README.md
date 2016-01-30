@@ -69,7 +69,8 @@ Note:
 ## Talking in public
 
 Note:
-- cathy: talk in a public chatroom, even when you are in the same place in person
+- cathy: one the keys to the success of the core mentoring public, is that we used the most public chat channel #drupal.
+- talk in a public chatroom, even when you are in the same place in person
   - move private conversations to public channels, make new public sub-topic channels to help manage the increase in chatter
   - helps to avoid people repeating themselves
   - do thanks in those public channels also, points, karma or kudos are nice
