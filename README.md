@@ -259,7 +259,10 @@ Note:
 ### Planned obsolescence
 
 Note:
-- alina
+- agreement to take on a role for a limited term
+- actively "reapply" beyond each term
+- the sum or goal of what we discussed here (talking in public, documenting knowledge, fostering environments where asking questions and exposing lack of knowledge is a safe and good thing to do) leads into people being able to step down from their roles and step into other roles without organizational or personal harm/disruption
+- people are going to leave no matter what, you can destroy the person and the organization, or neither. let's go with neither.
 
 
 
