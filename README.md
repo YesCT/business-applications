@@ -249,6 +249,9 @@ Note:
 
 Note:
 - cathy
+  - People need to transition into and out of roles
+  - you can't be promoted if you are irreplaceable
+  - onboarding people into new roles is smoother when the processes are documented and discoverable
 
 
 
@@ -268,7 +271,7 @@ Note:
 - agreement to take on a role for a limited term
 - actively "reapply" beyond each term
 - the sum or goal of what we discussed here (talking in public, documenting knowledge, fostering environments where asking questions and exposing lack of knowledge is a safe and good thing to do) leads into people being able to step down from their roles and step into other roles without organizational or personal harm/disruption
-- people are going to leave no matter what, you can destroy the person and the organization, or neither. let's go with neither.
+- cathy: people are going to leave no matter what, you can destroy the person and the organization, or neither. let's go with neither.
 
 
 
