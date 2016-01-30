@@ -88,7 +88,12 @@ Note:
 ### Story time
 
 Note:
-- alina
+- background: team of 5-7 within a larger group of about 20. IT department of about 100?
+- catalyst: adding a new team member, after a long time. at the same time, had 1-2 student workers
+- need to disburse information in multiple directions, and have it checked/confirmed
+- challenges: getting people to talk
+- having a bot helps - store/retrieve information, get metadata about tickets
+- comm platform doesn't matter, try using what you have (if it has group chat support)
 
 
 
