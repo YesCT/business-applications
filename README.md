@@ -68,14 +68,19 @@ Note:
 ## Talking in public
 
 Note:
--
+- talk in a public chatroom, even when you are in the same place in person
+ -- move private conversations to public channels, make new public sub-topic channels to help manage the increase in chatter
+ -- helps to avoid people repeating themselves
+ -- do thanks in those public channels also, points, karma or kudos are nice
 
 
 
 ### Knowledge retrieval and transfer
 
 Note:
--
+- when people talk in public, knowledge transfer and retrieval is a public, accessible process
+ -- when people share knowledge in a public chat, even those who are not directly in the conversation can benefit -- include publicly avialable storage of bits of information (factoids or bot responses of bits of commonly used information, commonly needed links or long links)
+ -- safer, people can risk "answering" questions, cause if they are wrong, there are observers who can chime in with more information
 
 
 
