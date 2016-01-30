@@ -137,14 +137,17 @@ Note:
 ## Breaking down problems
 
 Note:
-- alina
+- In Drupal Core Mentoring we come up against very large or extensive problems, and break it into tasks which on their own may seem trivial
 
 
 
 ### Breakdown
 
 Note:
-- alina
+- for every such daunting problem (technological or not) the start can be "create an issue/ticket" - make a record. it plants a small flag where we are, so that we can start exploring even the most complex architectural solutions, identifying tasks, blockers
+- taking a screenshot, correcting a typo in issue summary or clarifying words.
+- Together these tasks become an integral part of the work toward a solution
+- even for complicated issues, there are tasks that can be done by novices
 
 
 
