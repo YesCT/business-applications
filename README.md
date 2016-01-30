@@ -260,6 +260,7 @@ Note:
 ### Burnout
 
 Note:
+- alina
 - Make it possible for people to move on to reduce burnout
 - burnout is often approached from individual perspective, rather than an organizational one
 - needs to be discussed at organizational level because measures taken at individual level will be ineffective when burnout is not addressed as an organization
