@@ -185,7 +185,10 @@ Note:
 ### People are experts in their domains
 
 Note:
--
+- this is our starting point
+- people who come to sprints (or a person new to a team) have experience in variety of domains
+- including being an expert at being a beginner
+
 
 
 
@@ -195,7 +198,11 @@ Note:
 - Next steps <!-- .element: class="fragment" -->
 
 Note:
--
+1. thank the person for their contribution (something specific you want them to repeat)
+2. review and talk about what they did -- ask them to tell you what they did
+  - people are more receptive to feedback given by machines (meaning, test suites), so have a test suite pointing out code formatting issues (trailing space) rather than a human
+3. give specific suggestions for next steps, link to examples of similar work
+
 
 
 
