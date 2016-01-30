@@ -229,6 +229,11 @@ Note:
 
 Note:
 - cathy
+- Mentoring is always present whether it's explicit or implicit
+  - Even at sprints where mentoring is not an overt aspect (not something advertised as part of the sprint), mentoring happens organically because we work together
+  - "When one person teaches, two people learn"
+  - talking to someone whose expertise is outside of the domain you are working in can help us reframe the problem because we are forced to explain it
+- benefits: distribute institutional knowledge, individual's skills improve as learn from others
 
 
 
