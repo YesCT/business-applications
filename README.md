@@ -294,6 +294,7 @@ Note:
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
 ## [bit.ly/mentoring-lessons](http://bit.ly/mentoring-lessons)
+## [joind.in/talk/d856e](http://joind.in/talk/d856e)
 
 Note:
 -
