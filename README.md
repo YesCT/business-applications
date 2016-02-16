@@ -283,6 +283,7 @@ Note:
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
 ## [bit.ly/mentoring-lessons](http://bit.ly/mentoring-lessons)
+### Thanks to alimac @czaroxiejka
 
 Note:
 -
