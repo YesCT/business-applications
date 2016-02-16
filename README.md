@@ -1,5 +1,5 @@
 # Business Applications of Lessons Learned from Drupal Core Mentoring
-#### DrupalCamp NJ 2016
+#### Drupal NoVA Meetup
 
 
 
@@ -15,17 +15,6 @@ Note:
 <a href="https://www.drupal.org/u/yesct"><i class="fa fa-drupal"></i> YesCT</a>
 
 <a href="https://twitter.com/yesct"><i class="fa fa-twitter"></i> YesCT</a>
-
-Note:
-- About presenter
-
-
-
-## Alina Mackenzie
-
-<a href="https://www.drupal.org/u/alimac"><i class="fa fa-drupal"></i> alimac</a>
-
-<a href="https://twitter.com/czaroxiejka"><i class="fa fa-twitter"></i> czaroxiejka</a>
 
 Note:
 - About presenter
@@ -294,7 +283,6 @@ Note:
 
 <!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
 ## [bit.ly/mentoring-lessons](http://bit.ly/mentoring-lessons)
-## [joind.in/talk/d856e](http://joind.in/talk/d856e)
 
 Note:
 -
