@@ -87,7 +87,7 @@ Note:
 
 
 
-## Take aways
+## Takeaways
 
 Note:
 - Words
