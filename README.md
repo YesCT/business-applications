@@ -28,21 +28,13 @@ Note:
 
 
 
-### Thoughtfulness
-## showing concern for the needs of people
-
-Note:
-- intentionally making decisions, that will benefit people
-
-
-
 ## Goal
 
 Note:
 - I was thinking about this keynote.
 - I thought about the different kinds of people that would hear it.
 - The variety experience with Drupal you all have,
-- the variety of ways you interact with Druapl
+- the variety of ways you interact with Drupal
 - The effect each of us can have, on others, coworkers, users, ourselves
 - And that sometimes decisions we make, things we do can effect people negatively
 - I think that we can be more aware of that, and avoid some of the effects we dont want, but we may not have predicted.
@@ -52,6 +44,14 @@ Note:
 - You might have already be familar with some of the examples
 - Hopefully there will be a few that help you consider things in new ways
 - And with expanding those thoughts, it will help you make a habit for yourself of making thoughtful intentional decisions that have effects you wanted, and help you help others
+
+
+
+### Thoughtfulness
+## showing concern for the needs of people
+
+Note:
+- intentionally making decisions, that will benefit people
 
 
 
