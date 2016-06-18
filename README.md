@@ -29,11 +29,10 @@ Note:
 
 
 ### Thoughtfulness
-## showing concern for the needs of other people
+## showing concern for the needs of people
 
 Note:
-- showing consideration for others
-- intentionally making decisions that will benefit people
+- intentionally making decisions, that will benefit people
 
 
 
