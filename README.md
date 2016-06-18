@@ -21,8 +21,73 @@ Note:
 
 
 
-<!-- .slide: data-background="custom/images/" data-background-size="" data-state="show-header" data-header="" -->
-## Heading
+## Conversations
+
+Note:
+- Background
+
+
+
+### Thoughtfulness
+## showing concern for the needs of other people
+
+Note:
+- showing consideration for others
+- intentionally making decisions that will benefit people
+
+
+
+
+## Goal
+
+Note:
+- Words
+
+
+
+## Examples
+
+Note:
+- Words
+
+
+
+## People you do not know
+
+Note:
+- Words
+
+
+
+## Subordinates
+
+Note:
+- Words
+
+
+
+## Workmates
+
+Note:
+- Words
+
+
+
+## Yourself
+
+Note:
+- Words
+
+
+
+## In general
+
+Note:
+- Words
+
+
+
+## Take aways
 
 Note:
 - Words
