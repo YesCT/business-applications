@@ -1,9 +1,9 @@
-# Thoughtfulness
-#### Drupal GovCon
+# Design Patterns for Working with Humans
+#### DrupalCorn
 
 
 
-## [bit.ly/thoughtfulness](http://bit.ly/thoughtfulness)
+## [bit.ly/human-patterns](http://bit.ly/human-patterns)
 
 Note:
 - Slides and speaker notes available online
@@ -31,7 +31,7 @@ Note:
 ## Goal
 
 Note:
-- I was thinking about this keynote.
+- I was thinking about a keynote.
 - I thought about the different kinds of people that would hear it.
 - The variety experience with Drupal you all have,
 - the variety of ways you interact with Drupal
