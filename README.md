@@ -4,6 +4,7 @@
 
 
 ## [bit.ly/human-patterns](http://bit.ly/human-patterns)
+### [bit.ly/human-patterns-git](http://bit.ly/human-patterns-git)
 
 Note:
 - Slides and speaker notes available online
@@ -47,11 +48,29 @@ Note:
 
 
 
-### Thoughtfulness
 ## showing concern for the needs of people
 
 Note:
 - intentionally making decisions, that will benefit people
+
+
+
+## In general
+
+Note:
+- Looking at many different isolated practical examples of being thoughtful in a few situations, 
+- gives people a chance of being practiced in being thoughtful
+- so they can do it when faced with a new situation
+- even when they may not have been previously exposed to the debate and conversations organically through their social circles.
+- Personas have been coming up more and more in discussions I'm taking part in.
+- The first time I think I heard of using personas to help guide decision making was at a Drupal.org Community Working Group meeting, personas of users of d.o.
+- Recently, Cottser and laurii used personas for their new orleans core conversation when they were discussing how we can make decisions about the drupal theme system
+- Last night, it came up when working on my talk, when someone told me about how their Drupal camp uses personas, for example to help with session scheduling
+- I like the idea of starting with personas, cause
+- From the word itself, focuses on the people, considering their background, needs
+- Sometimes want to make a situation good for all personas
+- Or intentionally making a decision to favor one persona over the others
+- I think using personas makes a system that can help us be thoughtful
 
 
 
@@ -105,25 +124,6 @@ Note:
 
 
 
-## In general
-
-Note:
-- Looking at many different isolated practical examples of being thoughtful in a few situations, 
-- gives people a chance of being practiced in being thoughtful
-- so they can do it when faced with a new situation
-- even when they may not have been previously exposed to the debate and conversations organically through their social circles.
-- Personas have been coming up more and more in discussions I'm taking part in.
-- The first time I think I heard of using personas to help guide decision making was at a Drupal.org Community Working Group meeting, personas of users of d.o.
-- Recently, Cottser and laurii used personas for their new orleans core conversation when they were discussing how we can make decisions about the drupal theme system
-- Last night, it came up when working on my talk, when someone told me about how their Drupal camp uses personas, for example to help with session scheduling
-- I like the idea of starting with personas, cause
-- From the word itself, focuses on the people, considering their background, needs
-- Sometimes want to make a situation good for all personas
-- Or intentionally making a decision to favor one persona over the others
-- I think using personas makes a system that can help us be thoughtful
-
-
-
 ## Takeaways
 
 Note:
@@ -133,7 +133,7 @@ Note:
 
 
 
-## [bit.ly/thoughtfulness](http://bit.ly/thoughtfulness)
+## [bit.ly/human-patterns-git](http://bit.ly/human-patterns-git)
 ### Thanks to David, Levi, Jeff, Christian, Marc, Mike, Fureigh, Katie, Kalpana, David, Alina, Roy, Damien, Greg, Emma
 
 Note:
